@@ -1,4 +1,4 @@
-# 3990 Mini Mill
+# Grizzly G0768 - 8" x 16" Variable-Speed Lathe
 
 ## Equipment Status
 - Working 06/28/17
@@ -13,5 +13,5 @@
 - Odis
 
 ## Process to become autroized user.
-- Show compatance in use to Odis. 
+- Show Odis compatance in use. 
 
