@@ -17,6 +17,62 @@ Train and educate members dedicated to the purpose of BMS.
 Develop experts that can educate and mentor others in the makerspace craft.
 Benefit the city of Billings and communities around the world with the knowledge, assets, products, and practices developed by BMS.
 
+The purpose of BMS is 
+The purpose of BMS is 
+to provide
+- a space (both rentable or public)
+- education
+- tools
+- perchasable matterials
+- other opertunities
+  - linking businesess
+  - training
+  - class prodgets and labs for community scooles
+
+For
+- people of all ages and backrounds from the local comunitie
+- inquiring minds
+- (one day in the future) kids
+- entrepeneurs
+- bisuness owners
+
+To
+- learn & teach
+- biuld
+- share & collaborate
+- work
+- relax
+- fellowship
+- eat
+- love, care, and grow
+
+In
+- 3D Printing
+- milling
+- coding
+- 3d modling
+- gcode
+- desinging
+- bisiness
+- research and devolopment
+- woodworking
+- welding
+- soldering
+- computers
+- automotives
+- hacking & revers enfinering
+- teaching and mentoring
+  one day
+- CNC
+- vacumm chambers
+- metalergy/blacksmithing
+- microscopes
+- engraving
+- sand blasting
+- whiteboards
+- digital and actual library
+- casting
+
 ## ARTICLE 2 — Membership
 
 ### SECTION 1– Membership tiers
